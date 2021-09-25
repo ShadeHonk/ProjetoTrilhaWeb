@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Faculdade\WorkspaceTrilhaWeb\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1956160307.index
+438851461.index
+3357621411.index
+1616479918.index
+4027752288.index
+414085062.index
